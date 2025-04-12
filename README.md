@@ -1,4 +1,4 @@
 # CollegeDSA
 This is all about college dsa
 <br>
-Shivang Shikla is Growing
+Shivang Shukla is Growing
